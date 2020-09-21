@@ -1,0 +1,42 @@
+G:\ukm\LAB RPL\SG 30-03-17\Game\Awas Bang\Temp\bin\Debug\Assembly-CSharp.dll
+G:\ukm\LAB RPL\SG 30-03-17\Game\Awas Bang\Temp\bin\Debug\Assembly-CSharp.pdb
+G:\ukm\LAB RPL\SG 30-03-17\Game\Awas Bang\Temp\bin\Debug\UnityEditor.dll
+G:\ukm\LAB RPL\SG 30-03-17\Game\Awas Bang\Temp\bin\Debug\UnityEngine.dll
+G:\ukm\LAB RPL\SG 30-03-17\Game\Awas Bang\Temp\bin\Debug\UnityEngine.Networking.dll
+G:\ukm\LAB RPL\SG 30-03-17\Game\Awas Bang\Temp\bin\Debug\UnityEngine.UI.dll
+G:\ukm\LAB RPL\SG 30-03-17\Game\Awas Bang\Temp\bin\Debug\Mono.Cecil.dll
+G:\ukm\LAB RPL\SG 30-03-17\Game\Awas Bang\Temp\bin\Debug\Unity.SerializationLogic.dll
+G:\ukm\LAB RPL\SG 30-03-17\Game\Awas Bang\Temp\bin\Debug\Unity.DataContract.dll
+G:\ukm\LAB RPL\SG 30-03-17\Game\Awas Bang\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+G:\ukm\LAB RPL\SG 30-03-17\Game\Awas Bang\Temp\bin\Debug\Unity.UNetWeaver.dll
+G:\ukm\LAB RPL\SG 30-03-17\Game\Awas Bang\Temp\bin\Debug\Unity.CecilTools.dll
+G:\ukm\LAB RPL\SG 30-03-17\Game\Awas Bang\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+G:\ukm\LAB RPL\SG 30-03-17\Game\Awas Bang\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+G:\ukm\LAB RPL\SG 30-03-17\Game\Awas Bang\Temp\bin\Debug\UnityEngine.xml
+G:\ukm\LAB RPL\SG 30-03-17\Game\Awas Bang\Temp\bin\Debug\UnityEditor.xml
+G:\ukm\LAB RPL\SG 30-03-17\Game\Awas Bang\Temp\bin\Debug\UnityEngine.UI.xml
+G:\ukm\LAB RPL\SG 30-03-17\Game\Awas Bang\Temp\bin\Debug\UnityEngine.Networking.xml
+G:\ukm\LAB RPL\SG 30-03-17\Game\Awas Bang\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+G:\ukm\LAB RPL\SG 30-03-17\Game\Awas Bang\obj\Debug\Assembly-CSharp.dll
+G:\ukm\LAB RPL\SG 30-03-17\Game\Awas Bang\obj\Debug\Assembly-CSharp.pdb
+F:\Game Study [DnA&GDC]\Tubes GDC\Awas Bang\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\Game Study [DnA&GDC]\Tubes GDC\Awas Bang\obj\Debug\Assembly-CSharp.dll
+F:\Game Study [DnA&GDC]\Tubes GDC\Awas Bang\Temp\bin\Debug\Assembly-CSharp.dll
+F:\Game Study [DnA&GDC]\Tubes GDC\Awas Bang\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\Game Study [DnA&GDC]\Tubes GDC\Awas Bang\Temp\bin\Debug\UnityEditor.dll
+F:\Game Study [DnA&GDC]\Tubes GDC\Awas Bang\Temp\bin\Debug\UnityEngine.dll
+F:\Game Study [DnA&GDC]\Tubes GDC\Awas Bang\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\Game Study [DnA&GDC]\Tubes GDC\Awas Bang\Temp\bin\Debug\UnityEngine.UI.dll
+F:\Game Study [DnA&GDC]\Tubes GDC\Awas Bang\Temp\bin\Debug\Mono.Cecil.dll
+F:\Game Study [DnA&GDC]\Tubes GDC\Awas Bang\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\Game Study [DnA&GDC]\Tubes GDC\Awas Bang\Temp\bin\Debug\Unity.DataContract.dll
+F:\Game Study [DnA&GDC]\Tubes GDC\Awas Bang\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\Game Study [DnA&GDC]\Tubes GDC\Awas Bang\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\Game Study [DnA&GDC]\Tubes GDC\Awas Bang\Temp\bin\Debug\Unity.CecilTools.dll
+F:\Game Study [DnA&GDC]\Tubes GDC\Awas Bang\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+F:\Game Study [DnA&GDC]\Tubes GDC\Awas Bang\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+F:\Game Study [DnA&GDC]\Tubes GDC\Awas Bang\Temp\bin\Debug\UnityEngine.xml
+F:\Game Study [DnA&GDC]\Tubes GDC\Awas Bang\Temp\bin\Debug\UnityEditor.xml
+F:\Game Study [DnA&GDC]\Tubes GDC\Awas Bang\Temp\bin\Debug\UnityEngine.UI.xml
+F:\Game Study [DnA&GDC]\Tubes GDC\Awas Bang\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\Game Study [DnA&GDC]\Tubes GDC\Awas Bang\obj\Debug\Assembly-CSharp.pdb

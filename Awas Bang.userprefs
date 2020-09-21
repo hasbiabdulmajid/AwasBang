@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\MenuCtrl.cs">
+    <Files>
+      <File FileName="Assets\Script\MenuCtrl.cs" Line="9" Column="38" />
+      <File FileName="Assets\Script\GM.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\spawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\pisau.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\hand.cs" Line="32" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
